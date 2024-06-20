@@ -1,8 +1,4 @@
-*******************************************************
-*                                                     *
-*                  Doviz Ofisi Uygulaması             *
-*                                                     *
-*******************************************************
+# Doviz Ofisi Uygulaması  
 
 Bu proje, C# programlama dili ve Windows Forms kullanılarak geliştirilmiş bir döviz ofisi uygulamasıdır. Uygulama, Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) günlük döviz kurlarını kullanarak döviz alım-satım işlemleri yapmanızı sağlar.
 
@@ -52,5 +48,7 @@ Bu proje, C# programlama dili ve Windows Forms kullanılarak geliştirilmiş bir
 
 Uygulamanın Ekran Görüntüsü:
 
-![Doviz Ofisi Uygulaması Ekran Görüntüsü](path/to/screenshot.png)
+![Doviz Ofisi Uygulaması Ekran Görüntüsü](https://github.com/mihrapgozcu/Doviz_Ofisi/blob/master/ana%20ekran.png)
+
+![](https://github.com/mihrapgozcu/Doviz_Ofisi/blob/master/islem.png)
 
